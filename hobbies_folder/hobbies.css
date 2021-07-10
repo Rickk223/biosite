@@ -1,0 +1,104 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;}
+body {
+    color: #f7c448;
+    background-color: #9cb94f;
+    background-image: url("../SarasPics//back6.jpg");
+    background-position: center;
+    font-family: 'Montserrat', Arial, sans-serif;
+    line-height: 1.4em;
+    margin: 0px;}
+.wrapper {
+    width: 940px;
+    margin: 100px auto 100px auto;
+    border: 2px solid #000000;
+    background-color: #4da36a;}
+header {
+    height: 160px;
+    text-align: center;}
+h1 {text-align: center;
+    width: 640px;
+    height: 80px;
+    margin: 0px;
+
+    }
+nav, footer {
+    clear: both;
+    color: #0d6774;
+    background-color: #9cb94f;
+    height: 30px;}
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;}
+nav li {
+    display: inline;
+    margin-right: 40px;}
+nav li a {
+    color: #0d6774;}
+nav li a:hover, nav li a.current {
+    color: #000000;}
+section.courses {
+    float: left;
+    width: 659px;
+    height: auto;
+    border-right: 1px solid #eeeeee;}
+article {
+    clear: both;
+    overflow: auto;
+    width: 100%;}
+hgroup {
+    margin-top: 40px;}
+figure {
+    float: left;
+    width: 290px;
+    height: 220px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #eeeeee;}
+figure img,pic1 {
+    width: 290px;}
+figure.picture1 {
+    height: 450px;
+}
+#pic1 img{
+    width: 290px;
+}
+figcaption {
+    font-size: 90%;
+    text-align: left;}
+aside {
+    width: 230px;
+    float: left;
+    padding: 0px 0px 0px 20px;}
+aside section a {
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid #eeeeee;}
+aside section a:hover {
+    color: #985d6a;
+    background-color: #efefef;}
+a {
+    color: #f7c448;
+    text-decoration: none;}
+h1, h2, h3 {
+    font-weight: normal;}
+h1 {color:#0d6774;
+    font-weight: bold;
+    margin-top: 90px;
+    margin-left: 200px;
+    font-size:70px;
+}
+h2 {text-align: center;
+    margin: 10px 0px 5px 0px;
+    padding: 0px;
+    color: #0d6774;
+    font-weight: bold;}
+h3 {
+    margin: 0px 0px 10px 0px;
+    color: #eeeded;}
+aside h2 {
+    padding: 30px 0px 10px 0px;
+    color: #0d6774;}
+footer {
+    font-size: 80%;
+    padding: 7px 0px 0px 20px;}
