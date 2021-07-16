@@ -10,9 +10,20 @@ body {
     margin: 0px;}
 .wrapper {
     width: 990px;
+    
+    
     margin: 100px auto 100px auto;
     border: 2px solid #000000;
     background-color: #4da36a;}
+
+.bio-description{
+    height: 1000px;
+}
+p {margin-right: 10px;
+   margin-left: 10px;
+   font-size: 16px;
+   line-height: 30px;}
+
 header {
     height: 160px;
     text-align: center;}
@@ -40,13 +51,14 @@ section.intro {
     float: left;
     /*regulate space for text in formal bio-description*/
     width: 1000px;
-    height: 560px;}
+    height: 850px;}
 article {
     clear: both;
     overflow: auto;
     width: 100%;}
 hgroup {
-    margin-top: 0px;}
+    margin-top: 0px;
+    margin-right: 5px;}
 figure {
     float: left;
     width: 290px;
