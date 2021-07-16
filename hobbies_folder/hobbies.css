@@ -27,6 +27,7 @@ nav, footer {
     color: #0d6774;
     background-color: #9cb94f;
     height: 30px;}
+
 nav ul {
     margin: 0px;
     padding: 5px 0px 5px 30px;}
@@ -46,8 +47,12 @@ article {
     clear: both;
     overflow: auto;
     width: 100%;}
+
+p {margin-right: 10px;
+   line-height: 35px;}
+
 hgroup {
-    margin-top: 40px;}
+    margin-top: 0px;}
 figure {
     float: left;
     width: 290px;
