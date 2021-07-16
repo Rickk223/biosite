@@ -46,8 +46,11 @@ article {
     clear: both;
     overflow: auto;
     width: 100%;}
+p {margin-right: 15px;
+   font-size: 16px;
+   line-height: 30px;}
 hgroup {
-    margin-top: 40px;}
+    margin-top: 0px;}
 figure {
     float: left;
     width: 290px;
