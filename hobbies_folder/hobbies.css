@@ -19,15 +19,12 @@ header {
 h1 {text-align: center;
     width: 640px;
     height: 80px;
-    margin: 0px;
-
-    }
+    margin: 0px;}
 nav, footer {
-    clear: both;
+    clear: both; 
     color: #0d6774;
     background-color: #9cb94f;
     height: 30px;}
-
 nav ul {
     margin: 0px;
     padding: 5px 0px 5px 30px;}
@@ -63,11 +60,9 @@ figure {
 figure img,pic1 {
     width: 290px;}
 figure.picture1 {
-    height: 450px;
-}
+    height: 450px;}
 #pic1 img{
-    width: 290px;
-}
+    width: 290px;}
 figcaption {
     font-size: 90%;
     text-align: left;}
@@ -91,8 +86,7 @@ h1 {color:#0d6774;
     font-weight: bold;
     margin-top: 90px;
     margin-left: 200px;
-    font-size:70px;
-}
+    font-size:70px;}
 h2 {text-align: center;
     margin: 10px 0px 5px 0px;
     padding: 0px;
