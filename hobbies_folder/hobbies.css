@@ -80,6 +80,8 @@ aside section a:hover {
 a {
     color: #f7c448;
     text-decoration: none;}
+a:visited{color: purple;}
+a:active{color: #f7c448;}
 h1, h2, h3 {
     font-weight: normal;}
 h1 {color:#0d6774;
